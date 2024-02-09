@@ -1,0 +1,18 @@
+{
+	"name": "steamhourbooster",
+	"version": "1.0.0",
+	"description": "",
+	"main": "src/accountHandler.js",
+	"scripts": {
+		"start": "node src/accountHandler.js"
+	},
+	"keywords": [],
+	"author": "Swotch9399",
+	"dependencies": {
+		"easytimer.js": "^4.5.4",
+		"jwt-decode": "^3.1.2",
+		"readline-sync": "^1.4.10",
+		"steam-totp": "^2.1.2",
+		"steam-user": "^4.28.8"
+	}
+}
