@@ -1,3 +1,4 @@
+const keep_alive = require('../keep_alive.js');
 const { clock } = require('../config/global.js');
 const SteamUser = require('steam-user');
 const SteamTotp = require('steam-totp');

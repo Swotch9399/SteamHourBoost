@@ -1,3 +1,4 @@
+const keep_alive = require('../keep_alive.js');
 const steamClientFactory = require('./hourBooster.js');
 var configsArray = require('../config/accounts.js');
 var botArray = [];
