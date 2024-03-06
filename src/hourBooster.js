@@ -78,7 +78,7 @@ botFactory.buildBot = function (config) {
 		}
 		setTimeout(function () {
 			bot.doLogin();
-		}, 30 * 60 * 1000);
+		}, 1 * (60 * 1000));
 	});
 
 	bot.on('loginKey', function (key) {
