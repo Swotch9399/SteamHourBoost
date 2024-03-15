@@ -2,8 +2,8 @@ var configsArray = [];
 var config;
 
 config = {};
-config.username = 'username';
-config.password = 'password';
+config.username = 'taylan20081';
+config.password = 'Taylan2008';
 config.sharedSecret = '';
 config.enableStatus = true;
 config.gamesAndStatus = [];
